@@ -3,5 +3,7 @@
 
 1-2. +RequestAnimation
 
+2-1. Cube + Directional Light + Amibent Light + Diffuse Light
+
 # Lincense
 This repository is MIT.
