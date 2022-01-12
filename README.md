@@ -5,5 +5,7 @@
 
 2-1. Cube + Directional Light + Amibent Light + Diffuse Light
 
+2-2.Rotation(X,Y,Z) + ArbitraryAxisRotation + Quaternionrotation
+
 # Lincense
 This repository is MIT.
